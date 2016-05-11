@@ -1,6 +1,5 @@
 //Nujoma Halls
-//nujoma.halls@cix.csi.cuny.edu
-//917-797-3307
+
 
 #include <iostream>
 #include <string>
